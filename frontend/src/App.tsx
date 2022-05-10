@@ -1,7 +1,8 @@
+import Navbar from "./components/Navbar";
 
-function App() {
+const App = () => {
   return (
-    <h1>Página principal</h1>
+    <Navbar/>
   );
 }
 
