@@ -6,8 +6,7 @@ type Props = {
   movie: Movie;
 }
 
-const MovieCard = ({ movie }: Props) => {
-  
+const MovieCard = ({ movie }: Props) => {  
 
   return (
     <div>
