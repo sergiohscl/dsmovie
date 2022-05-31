@@ -33,6 +33,9 @@ Checklist do Projeto:
 6) Implantação no HeroKu e Netlify.
 
 ## PARABÉNS!
+#Link do certificado
+
+https://learn.devsuperior.com/certificados/5963595
 
 ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
 
